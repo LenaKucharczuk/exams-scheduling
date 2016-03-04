@@ -1,3 +1,2 @@
 # ExamsScheduling
-Aplikacja na zaliczenie Inżynierii Oprogramowania.
-Implementacja terminarza wspomagajacego organizacje egzaminow dyplomowych.
+Implementation of scheduler supporting organizing graduation exams. Allows accessing 3 types of accounts: an administrator, worker and secretary.
